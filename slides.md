@@ -4,20 +4,33 @@ background: https://source.unsplash.com/collection/94734566/1920x1080
 class: 'text-center'
 highlighter: shiki
 info: |
-  ## Starter Template
-  Presentation slides for developers.
+  ## Blockchain Oracles
+  
+  A short introduction for the *Blockchain Technology* Seminar SS22
 
-  Learn more at [Sli.dev](https://sli.dev)
+
+  Course website at [Uni
+  Tübingen](http://ps.informatik.uni-tuebingen.de/teaching/ss22/blockchain/)
 drawings:
   persist: false
-title: Starter Template
+title: Blockchain Oracles
 download: true
 ---
 
-# Welcome to Slidev
+# Blockchain Oracles
 
-Presentation slides for developers
+A short introduction for the *Blockchain Technology* Seminar SS22
+
 
 ---
 src: ./slides/outline.md
 ---
+
+---
+layout: center
+class: text-center
+---
+
+## Thank you for your attention!
+
+The presentation is available at `https://calwritescode.github.io/blockchain-oracles-2022/`
