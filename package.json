@@ -2,7 +2,7 @@
   "name": "blockchain-oracles-2022",
   "private": true,
   "scripts": {
-    "build": "slidev build build --base=/blockchain-oracles-2022/",
+    "build": "slidev build --base=/blockchain-oracles-2022/",
     "dev": "slidev --open",
     "export": "slidev export"
   },
