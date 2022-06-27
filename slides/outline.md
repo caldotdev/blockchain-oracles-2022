@@ -1,5 +1,20 @@
 # Outline
-
+- **Motivation**
+- **Types of Oracles**
+- **Trust Model**
+  * Centralized
+  * Decentralized
+    - Trust minimization
+- **Design Pattern**
+- **Centralized: Provable**
+- **Decentralized: Chain Link**
+  * Goals
+  * Security Model
+  * Decentralized Services enabled by DON
+  * Examples
+  * A Case Study: Trader Joes
+- **Where to go from here**
+- **Enter the rabbit hole** 🕳 🐇
 
 <style>
 h1 {

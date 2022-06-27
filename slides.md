@@ -27,6 +27,10 @@ src: ./slides/outline.md
 ---
 
 ---
+src: ./slides/motivation.md
+---
+
+---
 layout: center
 class: text-center
 ---
