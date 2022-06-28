@@ -36,6 +36,11 @@ src: ./slides/oracle-taxonomy.md
 
 ---
 src: ./slides/provable.md
+---
+
+---
+src: ./slides/chainlink.md
+---
 
 ---
 layout: center

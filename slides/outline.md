@@ -2,15 +2,14 @@
 - **Motivation**
 - 🌳 **Oracle Taxonomy**
 - **Centralized Oracle: Provable**
-- 🤝🏻 **Trust Minimization**
-- **Decentralized Oracle: Chain Link**
-  * Goals
-  * Security Model
-  * Decentralized Services enabled by DON
-  * Examples
-  * A Case Study: Trader Joes
+- <span class="flex font-bold">Decentralized Oracle: <img src="/chainlink-symbol-blue.svg" class="w-4 mx-2" /> Chain Link</span>
+  <li>Goals ✨</li>
+  <li>Security Model 🔐</li>
+  <li>Trust Minimization 🤝🏻</li>
+  <li>Decentralized Services enabled by DON ⚙️</li>
+- 🕵🏻‍♂️ **Case Study: Trader Joes**
 - **Where to go from here**
-- **Enter the rabbit hole** 🕳 🐇
+- 🕳 🐇 **Enter the rabbit hole** 
 
 <style>
 h1 {
