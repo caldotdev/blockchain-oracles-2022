@@ -1,9 +1,9 @@
 # Outline
 - **Motivation**
 - 🌳 **Oracle Taxonomy**
-- **Centralized: Provable**
+- **Centralized Oracle: Provable**
 - **Trust Minimization**
-- **Decentralized: Chain Link**
+- **Decentralized Oracle: Chain Link**
   * Goals
   * Security Model
   * Decentralized Services enabled by DON

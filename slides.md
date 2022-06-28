@@ -35,6 +35,9 @@ src: ./slides/oracle-taxonomy.md
 ---
 
 ---
+src: ./slides/provable.md
+
+---
 layout: center
 class: text-center
 ---
