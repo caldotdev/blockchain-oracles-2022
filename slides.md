@@ -31,6 +31,10 @@ src: ./slides/motivation.md
 ---
 
 ---
+src: ./slides/oracle-taxonomy.md
+---
+
+---
 layout: center
 class: text-center
 ---

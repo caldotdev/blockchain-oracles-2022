@@ -1,12 +1,8 @@
 # Outline
 - **Motivation**
-- **Types of Oracles**
-- **Trust Model**
-  * Centralized
-  * Decentralized
-    - Trust minimization
-- **Design Pattern**
+- 🌳 **Oracle Taxonomy**
 - **Centralized: Provable**
+- **Trust Minimization**
 - **Decentralized: Chain Link**
   * Goals
   * Security Model
