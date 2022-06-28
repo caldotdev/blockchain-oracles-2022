@@ -95,3 +95,18 @@ layout: center
 - Ergebnis bis zu 2500 Zeichen lang
 
 -->
+
+---
+
+# [Provable](https://provable.xyz/)'s Downsides
+
+- limited EVM functionality
+- inefficient handling of
+  - opcodes
+  - precompiles
+  - precision bound floats
+- high gas costs
+- absence of confidentiality & privacy...
+- ...
+
+In addition to Provable's centralized infrastructure this does sound suboptimal 🤔

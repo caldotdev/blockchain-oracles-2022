@@ -2,7 +2,7 @@
 - **Motivation**
 - 🌳 **Oracle Taxonomy**
 - **Centralized Oracle: Provable**
-- **Trust Minimization**
+- 🤝🏻 **Trust Minimization**
 - **Decentralized Oracle: Chain Link**
   * Goals
   * Security Model
