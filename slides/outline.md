@@ -7,7 +7,7 @@
   <li>Security Model 🔐</li>
   <li>Trust Minimization 🤝🏻</li>
   <li>Decentralized Services enabled by DON ⚙️</li>
-- 🕵🏻‍♂️ **Case Study: Trader Joes**
+- <span class="flex font-bold">Case Study: <img src="/JOE-logo.svg" class="w-5 mx-2" /> Trader Joe</span>
 - **Where to go from here**
 - 🕳 🐇 **Enter the rabbit hole** 
 

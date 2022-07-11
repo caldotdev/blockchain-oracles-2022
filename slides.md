@@ -43,6 +43,10 @@ src: ./slides/chainlink.md
 ---
 
 ---
+src: ./slides/case-study.md
+---
+
+---
 layout: center
 class: text-center
 ---

@@ -10,4 +10,4 @@
 - dApps need to be able to interact with real-world events
 - blockchain systems need to be able to access existing data sources, legacy systems and advanced computations
 - enable *any blockchain* to create *any output* with **any input**
-- **BASICALLY:** ***We need to get data on the chain ⛓**
+- **BASICALLY:** **We need to get data on the chain ⛓**
