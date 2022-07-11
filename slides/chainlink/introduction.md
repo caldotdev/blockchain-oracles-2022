@@ -8,6 +8,8 @@ imageClass: right-image
 
 > Chainlink is a Decentralized Oracle Network (DON) aimed at enhancing and extending the capabilities of smart-contracts on a given main chain.
 
+<br />
+
 - DON's serve as a flexible and powerful tool for dApp developers
 - provide high quality data due to consensus mechanism
 - necessary for [up to 90% of potential use cases](https://blog.chain.link/smart-contract-use-cases/) of dApps
