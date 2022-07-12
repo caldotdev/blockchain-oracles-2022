@@ -19,6 +19,25 @@ layout: center
 
 <img src="/chainlink-denied.png"/>
 
+<br />
+<br />
+
+<v-click>
+
+# 😢
+
+</v-click>
+
+<style>
+
+h1 {
+    font-size: 4rem !important;
+    text-align: center;
+  }
+
+</style>
+
+
 <!--
 - proof of reserve
 

@@ -49,6 +49,12 @@ src: ./slides/case-study.md
 ### Chainlink
 - [OCR Paper](https://research.chain.link/ocr.pdf)
 
+
+### Arbol
+- [Homepage](https://www.arbolmarket.com/)
+- [Medium Announcement](https://arbolmarket.medium.com/expanding-on-arbols-deal-with-chainlink-how-our-platform-works-and-what-this-deal-means-for-the-b75d2cf0c25b)
+- [dClimate](https://www.dclimate.net/)
+
 ---
 layout: center
 class: text-center

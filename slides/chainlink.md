@@ -51,6 +51,27 @@ src: ./slides/chainlink/cross-chain.md
 ---
 
 ---
+src: ./slides/chainlink/api-requests.md
+---
+
+---
+
+# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Functionality Recap 👨🏻‍🏫</span>
+
+We can..
+- query decentralized data feeds providing aggregated information
+- generate verifiable & tamper proof random numbers
+- automate smart contract executions off-chain
+- expose & proof the status of a reserve
+- enable cross chain data exchange & *even* transactions
+- query any API on the internet
+
+<br />
+<br />
+
+### ⇢ Chainlink provides developers with the necessary tools to enable "real-world usability" of smart contracts 💪🏻
+
+---
 src: ./slides/chainlink/monetization.md
 ---
 

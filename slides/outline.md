@@ -4,13 +4,15 @@
 - **Centralized Oracle: Provable**
 - <span class="flex font-bold">Decentralized Oracle: <img src="/chainlink-symbol-blue.svg" class="w-4 mx-2" /> Chain Link</span>
   <li>Architecture 🏗</li>
-  <li>Data Feeds 💾</li>
-  <li>VRF - random number generator 🎲</li>
-  <li>Keepers ⚙️</li>
-  <li>Proof of Reserve 🏦</li>
-  <li>Cross Chain Communication 💬</li>
+  <li>Solutions
+    <ul>
+      <li>Data Feeds 💾</li>
+      <li>VRF - random number generator 🎲</li>
+      <li>...</li>
+    </ul>
+  </li>
   <li>Monetizing Data 🤑</li>
-- <span class="flex font-bold">Case Study: <img src="/JOE-logo.svg" class="w-5 mx-2" /> Trader Joe</span>
+- Case Study: Arbol 🌾
 - 🕳 🐇 **Enter the rabbit hole** 
 
 <style>
