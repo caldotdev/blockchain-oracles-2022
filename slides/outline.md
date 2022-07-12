@@ -3,15 +3,14 @@
 - 🌳 **Oracle Taxonomy**
 - **Centralized Oracle: Provable**
 - <span class="flex font-bold">Decentralized Oracle: <img src="/chainlink-symbol-blue.svg" class="w-4 mx-2" /> Chain Link</span>
-  * Architecture 🏗
-  * Data Feeds 💾
-  * VRF - random number generator 🎲
-  * Keepers ⚙️
-  * Proof of Reserve 🏦
-  * Cross Chain Communication 💬
-  * Monetizing Data 🤑
+  <li>Architecture 🏗</li>
+  <li>Data Feeds 💾</li>
+  <li>VRF - random number generator 🎲</li>
+  <li>Keepers ⚙️</li>
+  <li>Proof of Reserve 🏦</li>
+  <li>Cross Chain Communication 💬</li>
+  <li>Monetizing Data 🤑</li>
 - <span class="flex font-bold">Case Study: <img src="/JOE-logo.svg" class="w-5 mx-2" /> Trader Joe</span>
-- **Where to go from here**
 - 🕳 🐇 **Enter the rabbit hole** 
 
 <style>

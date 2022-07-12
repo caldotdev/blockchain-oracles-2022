@@ -18,6 +18,30 @@ imageClass: right-image
 
 # <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" /> Introduction ✨</span>
 
+Chainlink offers multiple products..
+- **Data Feeds**
+- **VRF**
+  * verifiable, tamperproof
+  * low cost
+  * random number generator
+- **Keeper**
+- **Proof of Reserve**
+- **Cross-Chain Communication**
+
+<!--
+- dezentralisierte Datenquelle fuer Finanzdaten, Wetter, Sportergebnisse,...
+- automatische Ausfuerung basierend auf Triggern wie
+  * Zeit
+  * on-chain Aktivitaet
+  * ...
+- Audits von on-chain und off-chain Depots
+- Smart contract interoperability zwischen mehreren Chains
+-->
+
+---
+
+# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" /> Introduction ✨</span>
+
 <div class="container mx-auto flex flex-column justify-center">
     <div class="mb-4">
         <img src="/eth-usd-oracles.png" class="h-100 rounded object-center"/>

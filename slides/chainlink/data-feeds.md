@@ -13,12 +13,10 @@ are..
   * [Solidity](https://docs.soliditylang.org/en/v0.8.15/)
   * [web3.js](https://github.com/ChainSafe/web3.js) / [ether.js](https://github.com/ethers-io/ethers.js/)
   * [Web3.py](https://github.com/ethereum/web3.py) / [Vyper](https://github.com/vyperlang/vyper)
-  * [go-ethereum](https://github.com/ethereum/go-ethereum)
   * ...
 - some examples of **available data feeds** on Ethereum
   * `AAPL / USD`: [Contract](https://etherscan.io/address/0xc929ad75B72593967DE83E7F7Cda0493458261D9)
   * `BTC / ETH`: [Contract](https://etherscan.io/address/0xdeb288F737066589598e9214E782fa5A8eD689e8)
-  * `CRV / ETH`: [Contract](https://etherscan.io/address/0x8a12Be339B0cD1829b91Adc01977caa5E9ac121e)
 - migrated to [ENS](https://docs.ens.domains/)
 
 ::right::
@@ -48,7 +46,7 @@ Feeds are currently available on:
 
 ---
 
-# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />💾 Solidity Example</span>
+# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Solidity Example 💾</span>
 
 ```solidity
 pragma solidity ^0.8.7;
@@ -86,7 +84,7 @@ contract PriceConsumerV3 {
 
 ---
 
-# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />💾 Python Example</span>
+# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Python Example 💾</span>
 
 ```python
 web3 = Web3(Web3.HTTPProvider('https://rinkeby.infura.io/v3/<infura_project_id>'))
