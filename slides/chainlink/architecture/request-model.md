@@ -1,4 +1,4 @@
-# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Architecture - Request Model 🙋🏻‍♂️</span>
+# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Request Model 🏗</span>
 
 <div class="container mx-auto flex flex-column justify-center">
     <div class="mb-4">
@@ -24,7 +24,7 @@
 
 ---
 
-# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Architecture - Request Model 🙋🏻‍♂️</span>
+# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Request Model 🏗</span>
 
 <div class="container mx-auto flex flex-column justify-center">
     <div class="mb-4">
@@ -48,7 +48,7 @@
 
 ---
 
-# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Architecture - Request Model 🙋🏻‍♂️</span>
+# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Request Model 🏗</span>
 
 <div class="container mx-auto flex flex-column justify-center">
     <div class="mb-4">

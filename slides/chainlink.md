@@ -31,15 +31,27 @@ src: ./slides/chainlink/architecture.md
 ---
 
 ---
-src: ./slides/chainlink/security-model.md
+src: ./slides/chainlink/data-feeds.md
 ---
 
 ---
-src: ./slides/chainlink/trust-minimization.md
+src: ./slides/chainlink/vrf.md
 ---
 
 ---
-src: ./slides/chainlink/decentralized-services.md
+src: ./slides/chainlink/keepers.md
+---
+
+---
+src: ./slides/chainlink/por.md
+---
+
+---
+src: ./slides/chainlink/cross-chain.md
+---
+
+---
+src: ./slides/chainlink/monetization.md
 ---
 
 ---

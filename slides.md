@@ -21,7 +21,6 @@ download: true
 
 A short introduction for the *Blockchain Technology* Seminar SS22
 
-
 ---
 src: ./slides/outline.md
 ---
@@ -45,6 +44,10 @@ src: ./slides/chainlink.md
 ---
 src: ./slides/case-study.md
 ---
+
+# 🕳 🐇 **Ener the rabbit hole** 
+### Chainlink
+- [OCR Paper](https://research.chain.link/ocr.pdf)
 
 ---
 layout: center

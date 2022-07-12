@@ -1,4 +1,4 @@
-# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Architecture - Data Model</span>
+# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Data Model 🏗</span>
 
 - **Data Aggregation** [*sol contract*](https://github.com/smartcontractkit/libocr/blob/master/contract/AccessControlledOffchainAggregator.sol)
   * feed is created by multiple independent operators
@@ -13,7 +13,7 @@
 
 ---
 
-# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />DON - Components📦</span>
+# <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />DON Components</span>
 *three contracts..*
 
 - **consumer**
