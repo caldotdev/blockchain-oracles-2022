@@ -1,5 +1,9 @@
 # <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Off-Chain Reporting 🏗</span>
 
+<v-clicks>
+
+<div>
+
 ### Design Goals
 - Resilience
 - Simplicity
@@ -8,18 +12,29 @@
 
 <br />
 
-### Simple Analogy
+</div>
 
-<br />
+<div>
 
+#### Simple Analogy : 
 > Ship an order of multiple items from an online store in one package instead of multiple.
 
 <br />
+
+</div>
+
+<div>
+
+### Functionality :
 
 - nodes communicate through a P2P network
 - lightweight conensus algorithm decides on which data is included
 - aggregated transaction is transmitted
 - new *"node leader"* is regularly elected
+
+</div>
+
+</v-clicks>
 
 <!-- 
 # Resilience

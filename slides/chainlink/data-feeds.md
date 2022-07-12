@@ -8,6 +8,8 @@ layout: two-cols-one-heading
 
 are..
 
+<v-clicks>
+
 - easy to add via `chainlink` npm package
 - smart contracts consuming data feeds can be written in ..
   * [Solidity](https://docs.soliditylang.org/en/v0.8.15/)
@@ -19,7 +21,11 @@ are..
   * `BTC / ETH`: [Contract](https://etherscan.io/address/0xdeb288F737066589598e9214E782fa5A8eD689e8)
 - migrated to [ENS](https://docs.ens.domains/)
 
+</v-clicks>
+
 ::right::
+
+<v-click>
 
 Feeds are currently available on:
 - Ethereum
@@ -35,6 +41,8 @@ Feeds are currently available on:
 - Moonrive
 - *Solana*
 
+</v-click>
+
 <!-- 
 - koennen on- und off-chain verwendet werden 
 - ausser SOL alles EVM chains
@@ -48,7 +56,7 @@ Feeds are currently available on:
 
 # <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Solidity Example 💾</span>
 
-```solidity
+```solidity {3|13,20|all}
 pragma solidity ^0.8.7;
 
 import "@chainlink/contracts/src/v0.8/interfaces/AggregatorV3Interface.sol";
@@ -76,17 +84,18 @@ contract PriceConsumerV3 {
 
 <!-- 
 - als kleine Vorbereitung auf Leo's praesentation
-
-* Network: Rinkeby
-* Aggregator: ETH/USD
-* Address: 0x8A753747A1Fa494EC906cE90E9f37563A8AF630e 
+- verwendet contract adresse des price feed ETH/USD feeds auf Rinkeby
+  * Network: Rinkeby
+  * Aggregator: ETH/USD
+  * Address: 0x8A753747A1Fa494EC906cE90E9f37563A8AF6
+- 
 -->
 
 ---
 
 # <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Python Example 💾</span>
 
-```python
+```python {all|5|all}
 web3 = Web3(Web3.HTTPProvider('https://rinkeby.infura.io/v3/<infura_project_id>'))
 abi = '...'
 addr = '0x8A753747A1Fa494EC906cE90E9f37563A8AF630e'
@@ -97,5 +106,9 @@ latestData = contract.functions.latestRoundData().call()
 
 <br />
 
+<v-clicks>
+
 - the API is quite simple
 - everyone should find a language to utilize it with
+
+</v-clicks>

@@ -1,5 +1,7 @@
 # Centralized Oracle: [Provable](https://provable.xyz/)
 
+<v-clicks>
+
 - easy to use via simple queries
 - blockchain agnostic
   - most services live off-chain
@@ -14,6 +16,7 @@
   - as of now the link is broken 🤔
 - flexible & efficient
 
+</v-clicks>
 
 <!-- 
 - einfache queries
@@ -100,6 +103,8 @@ layout: center
 
 # [Provable](https://provable.xyz/)'s Downsides
 
+<v-clicks>
+
 - limited EVM functionality
 - inefficient handling of
   - opcodes
@@ -109,4 +114,10 @@ layout: center
 - absence of confidentiality & privacy...
 - ...
 
+</v-clicks>
+
+<v-click>
+
 In addition to Provable's centralized infrastructure this does sound suboptimal 🤔
+
+</v-click>

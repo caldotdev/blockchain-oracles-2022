@@ -12,7 +12,11 @@ layout: two-cols
 - common in client-server architectures
 - allows for two-way communication
 
+<v-click>
+
 *e.g. synchronize interest rate of a smart bond daily*
+
+</v-click>
 
 ::right::
 
@@ -45,7 +49,11 @@ layout: two-cols
   - poll for information with smart-contract
   - listen for changes via off-chain daemon
 
+<v-click>
+
 *e.g. average temperature in Germany*
+
+</v-click>
 
 ::right::
 
@@ -90,7 +98,11 @@ layout: two-cols
   - stored on chain
   - less gas fee intensive
 
+<v-click>
+
 *e.g. an oracle to for certificates of past academic achievements*
+
+</v-click>
 
 ::right::
 

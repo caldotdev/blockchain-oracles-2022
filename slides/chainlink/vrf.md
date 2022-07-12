@@ -3,16 +3,30 @@
 *Why is randomness a problem?* 🤔
 
 used for...
+
+<v-click>
+
 - **NFTs**: generation of attributes
 - **Gaming**: matchmaking, critical hits, draw order, random events,..
 - **Process Ordering**: public sales, auctions,..
 - **Entity Selection**: random picker
 
+</v-click>
+
+<v-click>
+
 optimally the generated numbers would be..
+
+</v-click>
+
+<v-click>
+
 - actually random 😅 (as close as possible)
 - verifiable via cryptographic proof
 - tamper proof
 - scalable & cheap (if you are a dev 👨🏻‍💻)
+
+</v-click>
 
 <!--
 # verifiable
@@ -32,12 +46,16 @@ function fulfillRandomness(uint256 requestId, unit256[] randomness) internal ove
 }
 ```
 
+<v-click>
+
 Fulfilling request isn't free:
 - gas price
 - callback gas
 - verification gas
 - gas lane
 - callback gas limit
+
+</v-click>
 
 <!--
 - gas lane: maximum and gas, welches man bereit ist fuer eine request zu zahlen
@@ -61,4 +79,8 @@ Fulfilling request isn't free:
 
 <br />
 
+<v-click>
+
 ### ⇢ this is an advantagous paradigm even for off-chain applications
+
+</v-click>

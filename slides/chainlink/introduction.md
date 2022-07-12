@@ -10,9 +10,13 @@ imageClass: right-image
 
 <br />
 
+<v-clicks>
+
 - DON's serve as a flexible and powerful tool for dApp developers
 - provide high quality data due to consensus mechanism
 - necessary for [up to 90% of potential use cases](https://blog.chain.link/smart-contract-use-cases/) of dApps
+
+</v-clicks>
 
 ---
 

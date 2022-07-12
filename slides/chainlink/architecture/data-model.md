@@ -1,6 +1,8 @@
 # <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />Data Model 🏗</span>
 
-- **Data Aggregation** [*sol contract*](https://github.com/smartcontractkit/libocr/blob/master/contract/AccessControlledOffchainAggregator.sol)
+<v-clicks>
+
+- **Data Aggregation** [*example SOL contract*](https://github.com/smartcontractkit/libocr/blob/master/contract/AccessControlledOffchainAggregator.sol)
   * feed is created by multiple independent operators
   * further enhanced by Off-Chain Reporting - *we talk about that later* ⏰ 
 - **Shared Data Resource**
@@ -11,15 +13,18 @@
   * feeds are only updated if a minimum number of responses are returned
   * data is published during a an aggregation round
 
+</v-clicks>
+
 ---
 
 # <span class="flex"> <img src="/chainlink-symbol-blue.svg" class="w-8 mr-4" />DON Components</span>
 *three contracts..*
 
+<v-clicks>
+
 - **consumer**
   * use data feed
   ```js
-  ...
   AggregatorV3Interface feed = AggregatorV3Interface(address);
   return feed.latestRoundData();
   ```
@@ -32,6 +37,7 @@
     - deviation threshold
     - heartbeat threshold
 
+</v-clicks>
 
 <!-- 
 # consumer

@@ -1,14 +1,28 @@
 # 🌳 Data Source
 
-- Software Oracles
+<v-click>
+
+- **Software Oracles**
   - deal with data originating from the internet
   - *e.g. asset prices, currency exchange rates,...*
-- Hardware Oracles
+
+</v-click>
+
+<v-click>
+
+- **Hardware Oracles**
   - gather data **directly** from the physical source
   - *e.g. scanners, RFID chips, temperature sensors,...* 
-- Human Oracles
+
+</v-click>
+
+<v-click>
+
+- **Human Oracles**
   - rely on people's actions
   - *e.g. outcome of a soccer match, vote on the best contestant,...*
+
+</v-click>
 
 <!-- 
 # Software

@@ -7,7 +7,17 @@
     </div>
 </div>
 
+<v-click>
+
 - dApps need to be able to interact with real-world events
-- blockchain systems need to be able to access existing data sources, legacy systems and advanced computations
+- enable blockchain systems to access existing data sources, legacy systems and advanced computations
 - enable *any blockchain* to create *any output* with **any input**
+
+</v-click>
+
+<v-click>
+
 - **BASICALLY:** **We need to get data on the chain ⛓**
+
+</v-click>
+
